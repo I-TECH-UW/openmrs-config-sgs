@@ -1,2 +1,0 @@
-Uuid,Void/Retire,Name,Description,Required,Format,Format description,Validator,Location behavior,Uniqueness behavior
-f424601e-35ae-40a3-be62-5844b95b2f3e,,PSB Clinic Identifier,Patient identifier type created for use by the PSB Clinic Registration System,TRUE,,,,NOT_USED,
